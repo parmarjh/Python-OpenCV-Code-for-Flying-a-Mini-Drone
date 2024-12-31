@@ -1,4 +1,4 @@
-# pc-drone
+# AI pc-drone
 Python OpenCV Code for Flying a Mini-Drone
 
 The main files needed are fly_drone.py, blob_detect.py, and control_params.py
